@@ -1,0 +1,14 @@
+D:\tamrin ha\main project\code\LampShade\0_FrameWork\bin\Debug\net7.0\0_FrameWork.deps.json
+D:\tamrin ha\main project\code\LampShade\0_FrameWork\bin\Debug\net7.0\0_FrameWork.runtimeconfig.json
+D:\tamrin ha\main project\code\LampShade\0_FrameWork\bin\Debug\net7.0\0_FrameWork.dll
+D:\tamrin ha\main project\code\LampShade\0_FrameWork\bin\Debug\net7.0\0_FrameWork.pdb
+D:\tamrin ha\main project\code\LampShade\0_FrameWork\obj\Debug\net7.0\0_FrameWork.csproj.AssemblyReference.cache
+D:\tamrin ha\main project\code\LampShade\0_FrameWork\obj\Debug\net7.0\0_FrameWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\tamrin ha\main project\code\LampShade\0_FrameWork\obj\Debug\net7.0\0_FrameWork.AssemblyInfoInputs.cache
+D:\tamrin ha\main project\code\LampShade\0_FrameWork\obj\Debug\net7.0\0_FrameWork.AssemblyInfo.cs
+D:\tamrin ha\main project\code\LampShade\0_FrameWork\obj\Debug\net7.0\0_FrameWork.csproj.CoreCompileInputs.cache
+D:\tamrin ha\main project\code\LampShade\0_FrameWork\obj\Debug\net7.0\0_FrameWork.dll
+D:\tamrin ha\main project\code\LampShade\0_FrameWork\obj\Debug\net7.0\refint\0_FrameWork.dll
+D:\tamrin ha\main project\code\LampShade\0_FrameWork\obj\Debug\net7.0\0_FrameWork.pdb
+D:\tamrin ha\main project\code\LampShade\0_FrameWork\obj\Debug\net7.0\0_FrameWork.genruntimeconfig.cache
+D:\tamrin ha\main project\code\LampShade\0_FrameWork\obj\Debug\net7.0\ref\0_FrameWork.dll

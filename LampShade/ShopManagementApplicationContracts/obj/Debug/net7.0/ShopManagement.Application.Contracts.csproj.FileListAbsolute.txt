@@ -1,0 +1,17 @@
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\bin\Debug\net7.0\ShopManagement.Application.Contracts.deps.json
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\bin\Debug\net7.0\ShopManagement.Application.Contracts.runtimeconfig.json
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\bin\Debug\net7.0\ShopManagement.Application.Contracts.dll
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\bin\Debug\net7.0\ShopManagement.Application.Contracts.pdb
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\bin\Debug\net7.0\0_FrameWork.dll
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\bin\Debug\net7.0\0_FrameWork.pdb
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\obj\Debug\net7.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\obj\Debug\net7.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\obj\Debug\net7.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\obj\Debug\net7.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\obj\Debug\net7.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\obj\Debug\net7.0\ShopManagement.Application.Contracts.csproj.CopyComplete
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\obj\Debug\net7.0\ShopManagement.Application.Contracts.dll
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\obj\Debug\net7.0\refint\ShopManagement.Application.Contracts.dll
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\obj\Debug\net7.0\ShopManagement.Application.Contracts.pdb
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\obj\Debug\net7.0\ShopManagement.Application.Contracts.genruntimeconfig.cache
+D:\tamrin ha\main project\code\LampShade\ShopManagementApplicationContracts\obj\Debug\net7.0\ref\ShopManagement.Application.Contracts.dll
