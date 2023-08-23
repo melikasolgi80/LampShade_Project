@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4y4hp6vJgI+sZlHGlNVT68DF8EfHn0K7oB7lWsMSGN2L0QvObJG7pcE3SStX/0A8UPl1Z8Uva8D2v31OiZSDAQ==",
+  "dgSpecHash": "Zn/8wiH8ArRMQdGSJywChfElmnwFy4NBLV7Koy5Pg+N/L0+0fTRAcSTXmnme3HmeMuB5mXShKpSzvf6Qy/jk8g==",
   "success": true,
   "projectFilePath": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\ServiceHost.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\melika\\.nuget\\packages\\ajaxcontroltoolkit\\20.1.0\\ajaxcontroltoolkit.20.1.0.nupkg.sha512",
     "C:\\Users\\melika\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\melika\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\melika\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
@@ -228,5 +229,16 @@
     "C:\\Users\\melika\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\melika\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AjaxControlToolkit 20.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AjaxControlToolkit",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

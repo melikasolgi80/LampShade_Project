@@ -263,3 +263,4 @@ D:\tamrin ha\main project\code\LampShade\ServiceHost\obj\Debug\net7.0\refint\Ser
 D:\tamrin ha\main project\code\LampShade\ServiceHost\obj\Debug\net7.0\ServiceHost.pdb
 D:\tamrin ha\main project\code\LampShade\ServiceHost\obj\Debug\net7.0\ServiceHost.genruntimeconfig.cache
 D:\tamrin ha\main project\code\LampShade\ServiceHost\obj\Debug\net7.0\ref\ServiceHost.dll
+D:\tamrin ha\main project\code\LampShade\ServiceHost\bin\Debug\net7.0\AjaxControlToolkit.dll

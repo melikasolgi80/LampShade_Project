@@ -165,6 +165,10 @@
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\material-design-iconic-font.min.css"
     },
     {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\persian-datepicker.min.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\persian-datepicker.min.css"
+    },
+    {
       "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\style-responsive.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\style-responsive.css"
     },
@@ -817,6 +821,18 @@
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\npm.js"
     },
     {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\persian-date.min.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\persian-date.min.js"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\persian-datepicker.min.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\persian-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\site.js"
+    },
+    {
       "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\skycons.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\skycons.min.js"
     },
@@ -1033,6 +1049,210 @@
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\toggles\\toggles.min.js"
     },
     {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.eot",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.eot"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.svg",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.svg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.ttf"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.woff",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.woff"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.woff2",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.woff2"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\avatar-1.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\big\\Thumbs.db",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\big\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\big\\bg.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\big\\bg.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\big\\img1.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\big\\img1.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\favicon_1.ico",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\favicon_1.ico"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\1.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\10.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\10.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\11.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\11.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\12.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\12.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\2.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\3.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\4.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\5.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\6.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\7.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\8.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\9.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\9.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\logo_dark.png",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\logo_dark.png"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\small\\Thumbs.db",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\small\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\small\\bg.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\small\\bg.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\small\\bg1.png",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\small\\bg1.png"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\small\\img1.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\small\\img1.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\small\\img2.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\small\\img2.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\small\\img3.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\small\\img3.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\sort_asc.png"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\sort_both.png"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\Thumbs.db",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-1.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-10.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-2.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-3.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-4.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-5.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-6.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-7.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-8.jpg"
+    },
+    {
+      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-9.jpg"
+    },
+    {
       "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -1057,22 +1277,6 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
       "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
@@ -1087,54 +1291,6 @@
     {
       "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
       "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -1153,22 +1309,6 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
       "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
@@ -1183,22 +1323,6 @@
     {
       "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
       "Id": "D:\\tamrin ha\\main project\\code\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",

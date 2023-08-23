@@ -9,16 +9,16 @@ using System.Threading.Tasks;
 
 namespace _0_FrameWork.Infrastructure
 {
-    public class RepositoryBase<TKey, T> : IRepository<TKey, T> where T : class
+    public class RepositoryBase<TKey, T> : IRepository<TKey,T> where T : class
     {
         private readonly DbContext _context;
         public RepositoryBase(DbContext context)
         {
-            _context= context;
+            _context = context;
         }
         public void Create(T entity)
         {
-         _context.Add(entity);
+            _context.Add(entity);
         }
 
         public bool Exists(Expression<Func<T, bool>> expression)
@@ -33,12 +33,11 @@ namespace _0_FrameWork.Infrastructure
 
         public List<T> Get()
         {
-           return _context.Set<T>().ToList();
+            return _context.Set<T>().ToList();
         }
-
-        public void Savechanges()
+        public void SaveChanges()
         {
-            throw new NotImplementedException();
+            _context.SaveChanges();
         }
     }
 }

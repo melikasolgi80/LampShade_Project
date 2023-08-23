@@ -28,7 +28,7 @@ namespace ShopManagement.Application
                 command.Picture, command.PictureTitle, Slug);
 
             _productCategoryRepository.Create(productCategory);
-            _productCategoryRepository.Savechanges();
+            _productCategoryRepository.SaveChanges();
             return operation.Succeded();
         
         }
@@ -49,7 +49,7 @@ namespace ShopManagement.Application
                 command.Picture, command.PictureTitle, Slug);
 
     
-            _productCategoryRepository.Savechanges();
+            _productCategoryRepository.SaveChanges();
             return operation.Succeded();
         }
 

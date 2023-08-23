@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "AjaxControlToolkit/20.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/AjaxControlToolkit.dll": {}
+        },
+        "runtime": {
+          "lib/net40/AjaxControlToolkit.dll": {}
+        }
+      },
       "Azure.Core/1.24.0": {
         "type": "package",
         "dependencies": {
@@ -3905,7 +3914,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.9",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.8"
         },
         "compile": {
           "bin/placeholder/0_FrameWork.dll": {}
@@ -3918,9 +3928,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "7.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.9",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.8",
           "ShopManagement.Application.Contracts": "1.0.0",
           "ShopManagement.Domain": "1.0.0"
         },
@@ -3936,9 +3946,11 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "0_FrameWork": "1.0.0",
+          "AjaxControlToolkit": "20.1.0",
           "Microsoft.EntityFrameworkCore": "7.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.9",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.8"
         },
         "compile": {
           "bin/placeholder/ShopManagement.Application.Contracts.dll": {}
@@ -3954,6 +3966,7 @@
           "Microsoft.EntityFrameworkCore": "7.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.9",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.8",
           "ShopManagement.Application": "1.0.0",
           "ShopManagement.Application.Contracts": "1.0.0",
           "ShopManagement.Infrastructure.EFCore": "1.0.0"
@@ -3970,9 +3983,11 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "0_FrameWork": "1.0.0",
+          "AjaxControlToolkit": "20.1.0",
           "Microsoft.EntityFrameworkCore": "7.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.9",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.8",
           "ShopManagement.Application.Contracts": "1.0.0"
         },
         "compile": {
@@ -3986,9 +4001,11 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "AjaxControlToolkit": "20.1.0",
           "Microsoft.EntityFrameworkCore": "7.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.9",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.8",
           "ShopManagement.Domain": "1.0.0"
         },
         "compile": {
@@ -4001,6 +4018,20 @@
     }
   },
   "libraries": {
+    "AjaxControlToolkit/20.1.0": {
+      "sha512": "pW4bkn7IKznIDLS61WOdicrbIR8Njpc0omO71w+xGd+iRjz+41vf+s7PVFpFZ2CfqpdlQIJnObZb67XwarNNxg==",
+      "type": "package",
+      "path": "ajaxcontroltoolkit/20.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Web.config.transform",
+        "ajaxcontroltoolkit.20.1.0.nupkg.sha512",
+        "ajaxcontroltoolkit.nuspec",
+        "lib/net40/AjaxControlToolkit.dll",
+        "readme.txt"
+      ]
+    },
     "Azure.Core/1.24.0": {
       "sha512": "+/qI1j2oU1S4/nvxb2k/wDsol00iGf1AyJX5g3epV7eOpQEP/2xcgh/cxgKMeFgn3U2fmgSiBnQZdkV+l5y0Uw==",
       "type": "package",
@@ -11567,5 +11598,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AjaxControlToolkit 20.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AjaxControlToolkit",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
